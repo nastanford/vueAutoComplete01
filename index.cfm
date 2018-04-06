@@ -11,6 +11,7 @@
     <auto-complete-component></auto-complete-component>
   </div>
   <script type="module" src="SingleFileComponent.js"></script>
+  <script type="module" src="autocompleteComponent.js"></script>
   <script type="module" src="app.js"></script>
 </body>
 </html>
